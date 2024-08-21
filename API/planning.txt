@@ -1,0 +1,4 @@
+***Planejamento***
+[]1.Criar a entridade Usuário e seus métodos CRUD(Create,Read,Update,Delete).
+[]2.Criar a entidade para salvar os dados localmente e depois recuperá-los, sendo os dados, da entidade Usuário.
+[]3.Criar e permitir que os métodos sejam utilizados em requisições.
